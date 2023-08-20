@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 <h1>my Portfolio [https://dipanshu-verma.github.io/](https://dipanshu-verma.github.io/)</h1> 
+- 👨‍💻my Portfolio [https://dipanshu-verma.github.io/](https://dipanshu-verma.github.io/) 
 
 - 💬 Ask me about **React.js,Redux,JavaScript,HTML,CSS,Java,DSA,**
 
