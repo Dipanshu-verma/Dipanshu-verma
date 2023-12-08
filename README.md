@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshu-verma" alt="dipanshu-verma" /></a> </p>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m a mern stack developer **full stack web development**
 
-- 👨‍💻My Portfolio [https://dipanshu-verma.github.io/](https://dipanshu-verma.github.io/) 
+- 👨‍💻My Portfolio [https://dipanshu-verma.github.io/](https://dipanshu-verma.github.io/)
 
-- 💬 Ask me about **React.js,Redux,JavaScript,HTML,CSS,Java,DSA,**
+ - 👨‍💻My Linkedin [https://dipanshu-verma.github.io/](https://www.linkedin.com/in/dipanshu-verma-3875a7246/) 
+
+- 💬 Ask me about **React.js,Redux,JavaScript,HTML,CSS,Java,DSA,Node.js,Express.js,Mongo DB,tailwind CSS,Material Ui**
 
 - 📫 How to reach me **vermadipanshu444@gmail.com**
 
