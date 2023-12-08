@@ -10,7 +10,7 @@
 
 - 👨‍💻My Portfolio [https://dipanshu-verma.github.io/](https://dipanshu-verma.github.io/)
 
- - 👨‍💻My Linkedin [https://dipanshu-verma.github.io/](https://www.linkedin.com/in/dipanshu-verma-3875a7246/) 
+ - 👨‍💻My Linkedin [https://www.linkedin.com/in/dipanshu-verma-3875a7246/](https://www.linkedin.com/in/dipanshu-verma-3875a7246/) 
 
 - 💬 Ask me about **React.js,Redux,JavaScript,HTML,CSS,Java,DSA,Node.js,Express.js,Mongo DB,tailwind CSS,Material Ui**
 
